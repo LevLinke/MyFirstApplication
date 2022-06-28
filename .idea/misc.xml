@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GB/android/projects/MyFirstApplication/app/src/main/res/layout-qwerty/SecondHW.xml" value="0.29375" />
+        <entry key="..\:/GB/android/projects/MyFirstApplication/app/src/main/res/layout/SecondHW.xml" value="0.1" />
         <entry key="..\:/GB/android/projects/MyFirstApplication/app/src/main/res/layout/activity_main.xml" value="0.14583333333333334" />
         <entry key="..\:/GB/android/projects/MyFirstApplication/app/src/main/res/layout/activity_main2.xml" value="0.14583333333333334" />
       </map>
@@ -13,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="jpab" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14583333333333334" />
+      </ProjectState>
+    </option>
   </component>
 </project>
